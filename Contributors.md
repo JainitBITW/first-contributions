@@ -9,9 +9,13 @@
 - [Deepak Sirohiwal](https://github.com/deepaksirohiwal)
 - [Sambhav Jha](https://github.com/Sambhav250703)
 - [Mukul Raghav](https://github.com/Mukul-svg)
+<<<<<<< HEAD
 - [Jainit Bafna](https://github.com/Jainitbitw)
 - [Parth Panchal](https://github.com/hitchhicker007)
+=======
+>>>>>>> 9647b21 (Add Jainit Bafna to Contributors list)
 - [Jingurah](https://github.com/Jingurah)
+  [Jainit Bafna](https://github.com/Jainitbitw)
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
 - [klopq](https://github.com/klopq)
 - [Chris Otudero](https://github.com/ChrisOtudero)
