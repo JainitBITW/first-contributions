@@ -15,7 +15,7 @@
 =======
 >>>>>>> 9647b21 (Add Jainit Bafna to Contributors list)
 - [Jingurah](https://github.com/Jingurah)
-  [Jainit Bafna](https://github.com/Jainitbitw)
+  [Jainit Bafna](https://github.com/JainitBITW)
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
 - [klopq](https://github.com/klopq)
 - [Chris Otudero](https://github.com/ChrisOtudero)
